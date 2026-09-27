@@ -1,5 +1,15 @@
 {
  "13.3.0-android": {
+  "version": "13.3.0",
+  "platform": "android",
+  "date": "2026-07-27",
+  "app": "Minion Rush",
+  "id": "com.dotxr.MinionRushRevived",
+  "min_os": "Android 7.0",
+  "archs": [
+   "arm64-v8a",
+   "armeabi-v7a"
+  ],
   "name": "MinionRushRevived-13.3.0.apk",
   "size": 620125086,
   "sha256": "f0eeabe177d26f1faf230e176faa9bb523955033c8e14f22665d49b3cd211a5e",
@@ -77,6 +87,16 @@
   ]
  },
  "13.3.0-ios": {
+  "version": "13.3.0",
+  "platform": "ios",
+  "date": "2026-07-27",
+  "app": "Minion Rush",
+  "id": "com.dotxr.MinionRushRevived",
+  "min_os": "iOS 13.0",
+  "archs": [
+   "iPhone",
+   "iPad"
+  ],
   "name": "MinionRushRevived-13.3.0.ipa",
   "size": 546920776,
   "sha256": "f4090c591836468dc9c1e211398a7bb554646780b260ebd2babad146c238d045",
@@ -144,6 +164,17 @@
   ]
  },
  "9.6.1b-android": {
+  "version": "9.6.1b",
+  "platform": "android",
+  "date": "2023-05",
+  "app": "Minion Rush Revival 9.6.1b",
+  "id": "com.dotxr.MinionRush961",
+  "min_os": "Android 5.0",
+  "archs": [
+   "arm64-v8a",
+   "armeabi-v7a",
+   "x86_64"
+  ],
   "name": "MinionRushRevived-9.6.1b.apk",
   "size": 140732534,
   "sha256": "59e6764a2d6735dc7b53ed840a28379968f12889fca51655e68cfe70730815fa",
@@ -166,6 +197,16 @@
   ]
  },
  "9.6.1b-ios": {
+  "version": "9.6.1b",
+  "platform": "ios",
+  "date": "2023-05",
+  "app": "Minion Rush Revival 9.6.1b",
+  "id": "com.dotxr.MinionRushLegacy",
+  "min_os": "iOS 11.0",
+  "archs": [
+   "iPhone",
+   "iPad"
+  ],
   "name": "MinionRushRevived-9.6.1b.ipa",
   "size": 264916177,
   "sha256": "08dd43406cff5cbd64fbe733cf487a324768a3acaa7ef9e1ae01fb533c765803",
@@ -203,6 +244,15 @@
   ]
  },
  "9.7.1b-android": {
+  "version": "9.7.1b",
+  "platform": "android",
+  "date": "2023-12-22",
+  "app": "Minion Rush Revival 9.7.1b",
+  "id": "com.dotxr.MinionRushLegacy",
+  "min_os": "Android 5.0",
+  "archs": [
+   "arm64-v8a"
+  ],
   "name": "MinionRushRevived-9.7.1b.apk",
   "size": 121140207,
   "sha256": "a0c9e3f1c5e122a4e92f440920c8bd5eddcd6f11b41f7672da98e60e43c6323d",

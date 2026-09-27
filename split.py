@@ -25,6 +25,6 @@ with open(src, "rb") as f:
         parts.append({"file": f"builds/{bid}/{p}", "size": len(chunk), "sha256": hashlib.sha256(chunk).hexdigest()})
 
 builds = json.load(open(MANIFEST)) if os.path.exists(MANIFEST) else {}
-builds[bid] = {"name": name, "size": os.path.getsize(src), "sha256": whole.hexdigest(), "parts": parts}
+builds[bid] = {**{k: v for k, v in builds.get(bid, {}).items() if k not in ("name", "size", "sha256", "parts")}, "name": name, "size": os.path.getsize(src), "sha256": whole.hexdigest(), "parts": parts}
 json.dump(dict(sorted(builds.items())), open(MANIFEST, "w"), indent=1)
 print(bid, name, len(parts), "parts")
