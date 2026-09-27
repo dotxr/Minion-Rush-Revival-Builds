@@ -84,7 +84,8 @@
     "size": 6647336,
     "sha256": "a1e319633476d9ab3d09cdd2a0dfa948cfaee19c81b00098f59fa0446d10a740"
    }
-  ]
+  ],
+  "status": "stable"
  },
  "13.3.0-ios": {
   "version": "13.3.0",
@@ -161,7 +162,8 @@
     "size": 27875656,
     "sha256": "fc5bb128b79ed38255e8f7d5fef63ef450c4c5fdbc2e7a5cf2fbd09c60e73920"
    }
-  ]
+  ],
+  "status": "stable"
  },
  "9.6.1b-android": {
   "version": "9.6.1b",
@@ -194,7 +196,8 @@
     "size": 46341385,
     "sha256": "7b08c6e8b3de8d09e1da3863a4937e4c41d273c4103b3e1303188a0bdac8d797"
    }
-  ]
+  ],
+  "status": "deprecated"
  },
  "9.6.1b-android-offline": {
   "name": "MinionRushRevived-9.6.1b-offline.apk",
@@ -291,7 +294,20 @@
     "size": 9180615,
     "sha256": "9c711ad75bebe01d8a597ea39280ffcf668b45948a5492ff21518844466bc6fd"
    }
-  ]
+  ],
+  "version": "9.6.1b",
+  "platform": "android",
+  "date": "2023-05",
+  "app": "Minion Rush Revival 9.6.1b",
+  "id": "com.dotxr.MinionRush961",
+  "min_os": "Android 5.0",
+  "archs": [
+   "arm64-v8a",
+   "armeabi-v7a",
+   "x86_64"
+  ],
+  "status": "experimental",
+  "offline": true
  },
  "9.6.1b-ios": {
   "version": "9.6.1b",
@@ -338,7 +354,8 @@
     "size": 28986583,
     "sha256": "74478f581e5ec1343e521a28af133e6510e39f5c388f54d068f32cd7d8f1fb14"
    }
-  ]
+  ],
+  "status": "deprecated"
  },
  "9.6.1b-ios-offline": {
   "name": "MinionRushRevived-9.6.1b-offline.ipa",
@@ -425,7 +442,19 @@
     "size": 25620335,
     "sha256": "a6f647a09920aba1c26f1eca21e1d9097b57099a2c29d278fbc91e6ff335f28f"
    }
-  ]
+  ],
+  "version": "9.6.1b",
+  "platform": "ios",
+  "date": "2023-05",
+  "app": "Minion Rush Revival 9.6.1b",
+  "id": "com.dotxr.MinionRushLegacy",
+  "min_os": "iOS 11.0",
+  "archs": [
+   "iPhone",
+   "iPad"
+  ],
+  "status": "experimental",
+  "offline": true
  },
  "9.7.1b-android": {
   "version": "9.7.1b",
@@ -456,7 +485,8 @@
     "size": 26744962,
     "sha256": "3eea6eda0bce54f9a82e2ada11df6e4e4c75fd242594a276aecc2757d7675da8"
    }
-  ]
+  ],
+  "status": "deprecated"
  },
  "9.7.1b-android-offline": {
   "name": "MinionRushRevived-9.7.1b-offline.apk",
@@ -553,6 +583,17 @@
     "size": 27828479,
     "sha256": "a1ed4ba1947a47c9c39ca1f3c4b90f1ae5c5a45377bced7a245be1e173601551"
    }
-  ]
+  ],
+  "version": "9.7.1b",
+  "platform": "android",
+  "date": "2023-12-22",
+  "app": "Minion Rush Revival 9.7.1b",
+  "id": "com.dotxr.MinionRushLegacy",
+  "min_os": "Android 5.0",
+  "archs": [
+   "arm64-v8a"
+  ],
+  "status": "experimental",
+  "offline": true
  }
 }
