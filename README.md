@@ -10,4 +10,5 @@ Each build in `builds.json` has a `status`:
 
 - `stable`: 13.3.0, plays on the revival server.
 - `experimental`: the `-offline` 9.6.1b and 9.7.1b builds. The server is built into the app, so they run without internet and everything in the shop costs 1.
+- `untested`: built the same way as the offline builds but not played through yet (7.3.0i).
 - `deprecated`: the online 9.6.1b and 9.7.1b builds. They still work but aren't updated; the offline builds install over them.
