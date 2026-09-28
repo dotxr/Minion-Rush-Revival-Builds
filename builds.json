@@ -442,9 +442,21 @@
   "status": "deprecated"
  },
  "9.6.1b-ios-offline": {
+  "version": "9.6.1b",
+  "platform": "ios",
+  "date": "2023-05",
+  "app": "Minion Rush Revival 9.6.1b",
+  "id": "com.dotxr.MinionRushLegacy",
+  "min_os": "iOS 11.0",
+  "archs": [
+   "iPhone",
+   "iPad"
+  ],
+  "status": "experimental",
+  "offline": true,
   "name": "MinionRushRevived-9.6.1b-offline.ipa",
-  "size": 733409135,
-  "sha256": "607091fc6eb756db44ce759636ae6dbfdedccade728c53adeea99a59dee82b1c",
+  "size": 731387553,
+  "sha256": "4f57e973a8e7ae3eab8b3ad0b66d2097e5a63ed9465ef34835fe4a17104b8b6e",
   "parts": [
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.000",
@@ -474,71 +486,59 @@
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.005",
     "size": 47185920,
-    "sha256": "22dfb0dd6f52d2a384bd631fdd1c4440631189b26fb6035e4ce39cd915318962"
+    "sha256": "5cb21c0a5f260fb231cfec00d8b6f8e5194f0b86e56e81f315bd9fa6b12d0191"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.006",
     "size": 47185920,
-    "sha256": "c741ea0f1629817991f52f6889a1823b7b05b531ec12debf244d881c07e898c1"
+    "sha256": "f09caf583ed5d3d4afbf26276c4433b41bc313d5f904ff920f5ca5ae4f59ddbc"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.007",
     "size": 47185920,
-    "sha256": "75cb6e569e1a63fd6fd60989c61db41b07a2f3546a4d72ef636f9f8f6ad2e54b"
+    "sha256": "204c056b309be882311483ec9d548c60c0277c0e67270c958addbdefcf3d0852"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.008",
     "size": 47185920,
-    "sha256": "7fe92521da4249d70adf2ae8987812c7d6d4d5142ba41abb3bfb59a05b6d8797"
+    "sha256": "a1b5dcacb085fdbe0514eb2668ff471e9a40bf6efd8515f3bb2528fd98ee0d57"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.009",
     "size": 47185920,
-    "sha256": "054c37e1f3309fdbd4fd4f44a46ccb70c12d34b556f5000029131d37b4d35951"
+    "sha256": "a1cdec51d731363c58679375eda0b8985a3f82a68b80dd3bad4e1222d21bdc41"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.010",
     "size": 47185920,
-    "sha256": "dcc44f2c6b63d55d522de5ac61e26b851c7f7a81e73078c77b3cc6509c94b7dc"
+    "sha256": "3b59d23a8451d5701a7482dec0e8a5948bb05e037507cf891814cbfb2ef925f8"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.011",
     "size": 47185920,
-    "sha256": "b99ff0558493d07f62a40be22a84e8ca8fa5d49a12b15aaf87aee0257858e5c8"
+    "sha256": "72126b2118e2af4afa867caa60e31777ab31e7ca14c41f7c2d2ce5d6ea114910"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.012",
     "size": 47185920,
-    "sha256": "738bdcc8846096c9c4be4836c8718e0eaaa232e7957068c0667efa07ccbd61cc"
+    "sha256": "ed9ee930998976ccac525d251785acb012aae6398064613938a8e74d6a7e9421"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.013",
     "size": 47185920,
-    "sha256": "a4835d3339f4e28980af20bebe86acab2278b5640402589f761a6e24d445073d"
+    "sha256": "ceb0ff5bcff133797a39bb54e994193fd845b004ed9b35505c191c1812210ed7"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.014",
     "size": 47185920,
-    "sha256": "ed4484a666038ebfe6ca8e5f7d2473bcd7874bdc9694501dd90396b8eaac071b"
+    "sha256": "493a75b258f8c60bd4d13c9d932a8c24b14efa9dafe2095c65b5cb0030d7a426"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.015",
-    "size": 25620335,
-    "sha256": "a6f647a09920aba1c26f1eca21e1d9097b57099a2c29d278fbc91e6ff335f28f"
+    "size": 23598753,
+    "sha256": "86b569e409eb665a1cc2083ed5c0c1fe54c7172cf818a2a85d934917bcc68235"
    }
-  ],
-  "version": "9.6.1b",
-  "platform": "ios",
-  "date": "2023-05",
-  "app": "Minion Rush Revival 9.6.1b",
-  "id": "com.dotxr.MinionRushLegacy",
-  "min_os": "iOS 11.0",
-  "archs": [
-   "iPhone",
-   "iPad"
-  ],
-  "status": "experimental",
-  "offline": true
+  ]
  },
  "9.7.1b-android": {
   "version": "9.7.1b",
