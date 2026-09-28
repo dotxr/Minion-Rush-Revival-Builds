@@ -298,8 +298,8 @@
   "status": "experimental",
   "offline": true,
   "name": "MinionRushRevived-9.6.1b-offline.apk",
-  "size": 791871284,
-  "sha256": "438356b4012d3b1cf2feb8ccce578109af9783a87625624ae5f757e8ee85e795",
+  "size": 793415778,
+  "sha256": "6b213c589bae9aaf6365e18ea6a02ff4165915406b35524c33ffaf7f1131a18d",
   "parts": [
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.000",
@@ -314,77 +314,77 @@
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.002",
     "size": 47185920,
-    "sha256": "604c1abdb32066c944dbec7d83a0c79bb574f17adf82723b841603b71bf47f56"
+    "sha256": "733d4efe98b136403a047f59541f063f2c919fd5bcb619dc560168cfe43b0a91"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.003",
     "size": 47185920,
-    "sha256": "801155c1bd667f89dac8328922e109b408743d002789bf48b7770145a1dca39b"
+    "sha256": "84b164428b0699c73db10819f573569b0975a666d0ab24f4a38780a5a225d9e3"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.004",
     "size": 47185920,
-    "sha256": "f281958a97b49457890718e5caa814edaf3630edb0fec58f2c4b2edf59f2a781"
+    "sha256": "7d873679523eea522b51532e847c03c85f67e0a190cae6999f4cebfd12aa432e"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.005",
     "size": 47185920,
-    "sha256": "7d621322cf61fce168405ac17e42e9d7d752de262542cdea63b459a29323f0bc"
+    "sha256": "c6935e83e6cb7bc06d0c2724af8fc256c9b902aed99c825add900c3e978f9b2f"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.006",
     "size": 47185920,
-    "sha256": "4e1ba76a697686451b3e104ff6aa75324e6a3e055d3a623217e1cfde97ebd696"
+    "sha256": "85e72d01bf43df46c2e5e66e45b1075a0dad4abf96793ea34c1f445e453d0668"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.007",
     "size": 47185920,
-    "sha256": "e861a8881467a094567c098db37f164aaf439c27a68d6c784d688bf0c657c27e"
+    "sha256": "6082d68e5cce10070da54f32235a28c4745d22430064b7b229cfd28508e5bd37"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.008",
     "size": 47185920,
-    "sha256": "e61cd6512f77f1e31ddce674458220141d8abc3e2cb020635819080b0496660a"
+    "sha256": "00247bbef08c9b260a92dd39329c75f94164461e1f954fde9b49f260e0a0faf2"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.009",
     "size": 47185920,
-    "sha256": "fc2cebbbcabaa30fd823a485b6584819746e62e969a71730f077e19ce8b4e8f9"
+    "sha256": "969c46ec08b10a9c6ec9faf80c073b3c5d56544051423f820ad98b7177c3a436"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.010",
     "size": 47185920,
-    "sha256": "e542013b64ee9b874beaa192cb9b0b6b2921c1c6b1217057bd89c5170a4f2eab"
+    "sha256": "70a4acf59f8a0b5a4458905ff49248cefcae08550a776bf46fc8592fdf696c07"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.011",
     "size": 47185920,
-    "sha256": "921635ac065e82069c967fed2566c9be11fdd5d05100e576364e1b60c18edb86"
+    "sha256": "af4df66969ec8fcb73681d84445802fb2293dc64a92ef8b7d360680e86f4ffca"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.012",
     "size": 47185920,
-    "sha256": "4fef3e1f7c5fe71ddd3bb1087a10bf3a16e8260b495a2d860aa705f71f19a981"
+    "sha256": "775285c967ceff7e6c0512ffea54878574333a283c02c1b4c6f19ecc698032c8"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.013",
     "size": 47185920,
-    "sha256": "f1709d84fa21b8f9fd22332dc6454360b1edd131092b2cb544a2d8e9f0a980ce"
+    "sha256": "7553f7b39d3d8d7e0e81457512b957cf799b03da55e2c9d07f62f7509685cf38"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.014",
     "size": 47185920,
-    "sha256": "9afc541e79db1bd621cc12f8addd48fbb926a4af7413ce88df27e4f03be44044"
+    "sha256": "0237c207a49b77c52e1e4cd2da2ae38f984ed08a4a7292018e8e4d8fca0e797c"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.015",
     "size": 47185920,
-    "sha256": "79ad8823eeefedb5316611252f2211e64c4433de436c1835a82637e10f5ca7b8"
+    "sha256": "f13b3e9d49931a90136bc2a1f7805dc716ce9da2b7f4cb9ed14fc1e7fb5b8371"
    },
    {
     "file": "builds/9.6.1b-android-offline/MinionRushRevived-9.6.1b-offline.apk.016",
-    "size": 36896564,
-    "sha256": "4d9704a44f1a601f299a793eff864b19f5c29c3be54514afb44fb889c3b5b406"
+    "size": 38441058,
+    "sha256": "954fd63ffe90897b7c824dca1e5f7c7ed01f593bc6c243781e234c8155d2c3a7"
    }
   ]
  },
@@ -450,8 +450,8 @@
   "status": "experimental",
   "offline": true,
   "name": "MinionRushRevived-9.6.1b-offline.ipa",
-  "size": 729523043,
-  "sha256": "8acbafbab168bea9e60e103f2ec443bfebdadb1e72796b27c5ef5894e1bb30b6",
+  "size": 729524817,
+  "sha256": "f37b777963809ea3ae44938e94c17b575ce2d02c6a7fbe2c9bc55b2069472ba2",
   "parts": [
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.000",
@@ -481,57 +481,57 @@
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.005",
     "size": 47185920,
-    "sha256": "5073ab286d723e406efaba610fc637ebaf78d69e05825146bbcb04c2b791468a"
+    "sha256": "4ac8df73c4dfe4fe44f1011053e43de93766ad190cdc130ecaefc187f52f7a10"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.006",
     "size": 47185920,
-    "sha256": "51844d4704279ab587c87e0a30d0f3a3fc15d821351404d3b38c891e0c8f2254"
+    "sha256": "469d2bd9f5dfc99caa7cff167a0233a5475cef221f5948825a23f6a2274e8122"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.007",
     "size": 47185920,
-    "sha256": "9c05fae91e438751864c62e8cb619eee02efb2a244305468c895fa2dd6931b4e"
+    "sha256": "9f2f3d5e032e7a97b95f5ee7f5bdb3eb33efdf32ff8173762a231369a2aa9a94"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.008",
     "size": 47185920,
-    "sha256": "33b62bb5c1351b4ad1bcf4c98b2fbe4450a99a2d161b8a17ed799fcf13dbe437"
+    "sha256": "9700b7b415c2ff4e1b19612aee763f141f954d61ee7fd934de3b12c14dedfff3"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.009",
     "size": 47185920,
-    "sha256": "4ef9f24b61ecf9bd3526873d860d3715a1f89a5767048497dffbdfc632be1ab9"
+    "sha256": "d3de673f508df601470008aee903de139f17e26d87273dbbee926cd761f4c41c"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.010",
     "size": 47185920,
-    "sha256": "46677482a1611b5beae7152cb1ae179b2ee438f68863f2cb88dbc82441230ae2"
+    "sha256": "30047fb6f480ce66a7056498e448b9ca4050d88180b6d47de10f75c3cc4eae1d"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.011",
     "size": 47185920,
-    "sha256": "144d89f3fe14cb71d3dd24a35c7f1f7504f1f2331a416a36d3a89cf7fe476a88"
+    "sha256": "ebbc56a5acaab9f5919e0db849c253dab962755835e4b754ab528f5157b54232"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.012",
     "size": 47185920,
-    "sha256": "0d83a237f41ea18d30ea3009edb19e23b63b54b6e013d9c3d591a1c14de064a6"
+    "sha256": "5db39c210634ebc0e7341f7703e07900d304a9ff00f2845ddcb0aa1996be452b"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.013",
     "size": 47185920,
-    "sha256": "0f4ddd532151722fe9cecd51e7d2f12584ad1e46f7c8636bcc72f3bd85ff54b0"
+    "sha256": "4f5cd05557e4bd2fed6bfcf047b3feb89bf1b10229fc665bcb31ffafed8ba2e2"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.014",
     "size": 47185920,
-    "sha256": "9f865be0ab7bdc2790c75f00abec7a6c720737aa971fa0c6370570dc7524da70"
+    "sha256": "e68757613114c83be47b568d8f3bff1365ddccf609db733d2355f1ee2b9c8c4c"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.015",
-    "size": 21734243,
-    "sha256": "2b99587dcbf090807c456ae9bfe20454708017e7f438d6f263fd565f0328a269"
+    "size": 21736017,
+    "sha256": "274c25d2ea75a01ccbc30f57ae346982f4ee72d47c76f544982944f067500a40"
    }
   ]
  },
@@ -580,8 +580,8 @@
   "status": "experimental",
   "offline": true,
   "name": "MinionRushRevived-9.7.1b-offline.apk",
-  "size": 811416433,
-  "sha256": "0ba7747b90c55e98877dd24197de87a9c3e546f20f9928ff5e00077a817a5f55",
+  "size": 812956831,
+  "sha256": "64bdc2871661722d895f60e5f9fc99070cc689b65172af4fcb6cbef09de1dc48",
   "parts": [
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.000",
@@ -596,82 +596,82 @@
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.002",
     "size": 47185920,
-    "sha256": "4cb0f9aa38b5be07eef170b83d844da8683615f697b79bf93da7f9d84032535d"
+    "sha256": "27dab457cffbd9e8bbeeb9819f88b2bf7e5f159137ccf7c4c4bb5a109939b3f3"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.003",
     "size": 47185920,
-    "sha256": "60ac27a8a709f7094a4bf32a660ad14254218c12566adb49f9c5cc7e4c4e3c3f"
+    "sha256": "e6e303a5df45166b416cc0da57fba6559f3da33c8675b38ae75838ac75c9da6c"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.004",
     "size": 47185920,
-    "sha256": "82e31d8c26fd1fd78d5f1b04bf14268448376ca7252bcfecd60789279efafaca"
+    "sha256": "91f9e6241179b4f6b3362dd0e6078570c35e4f80fdb61209d767356f457a4541"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.005",
     "size": 47185920,
-    "sha256": "b126c6ecec23c262db36d973ab37f55ac642ec227cec2c6f7991ea9588c119da"
+    "sha256": "23e6a111bdfbde4ae6199a6876cdab86a10f59933f30ae76ea89d4162fa7519c"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.006",
     "size": 47185920,
-    "sha256": "c5019a8c09d4dde55ac9e7b83a4e61301d4a45ab49df1d1d4b25f62f800bb46f"
+    "sha256": "c06cb5be7c9d3a93be353354bf654e444810da85bd410e1068d260b01f2fb353"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.007",
     "size": 47185920,
-    "sha256": "3e79869cd31350cc6556b6c807f4782b76bd5e5bbe46cd84d3c1bcb116c71d04"
+    "sha256": "e1fc4fd6c6efd231f3883b73c54246c0e43ca227d3d7551d643ca49558d97d06"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.008",
     "size": 47185920,
-    "sha256": "7a83b7eea6571107ac3f088343b84b5b9aa05a61c5d52b997bdc1481cebbec31"
+    "sha256": "fdece928d0cd8672c7494548c905cb4448f2a5b2ea336e25a18991085f37db2b"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.009",
     "size": 47185920,
-    "sha256": "c890fd4ad667a3d2701f903d62ec27ccbb68b3f27dc022549e3c13d67e3b5afe"
+    "sha256": "f0876f8f9ac7273ce35ee7d186ce05b221b2bcf3c0bf1370fd22284c575b6c01"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.010",
     "size": 47185920,
-    "sha256": "1b893ba7245142ddf0516f0d4a59c815fdc395f9129c550335db73b4405c1d71"
+    "sha256": "e7073836ac1ee77e8eda1c45e1202b2a7913050c1ebfc636634b78c7fa78bb83"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.011",
     "size": 47185920,
-    "sha256": "ddf3c47b699bd142ca79f97c7d07d04df3f51e5957fff8edfbebbadf33da9fbe"
+    "sha256": "946148a90a70855329c0fc07cdb9b9b1285729a16c7affdd953619509906c49e"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.012",
     "size": 47185920,
-    "sha256": "1d12d3abd4d8faf1931d3a242b917b5d34e4d58278f8289d5730ea6027b0f4e4"
+    "sha256": "8da89443cdaff4753c20fd7e19639526a8497180763684428465ed2ddf346830"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.013",
     "size": 47185920,
-    "sha256": "c448402a08f76bca65d16eaf4a27caf5a0544e2b2ad2948e0812c9f8bd9fc7e1"
+    "sha256": "da2db0bc0bb252b0d34a3a2e4c46c0085af1447a8ec5b3af829168016a1ef3a1"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.014",
     "size": 47185920,
-    "sha256": "ba249d1b2f5fbf87971dcb14a8a9448a5327aa650aaf46d74411cc5d9e933c4f"
+    "sha256": "ea951b8fd562bb034e6c8088c7638f2965bf0654f35553875a514b7fc2c6386b"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.015",
     "size": 47185920,
-    "sha256": "673e9f6b6a0d737d79d3612353abbd9524116921833d10e30fbcd20c98f329b4"
+    "sha256": "23db823aca0f706236d0fdcdeb05e76a751109759bc818c2d3e6f1998b9b39fe"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.016",
     "size": 47185920,
-    "sha256": "be74d319cc87ced575503715bf6f0edf6d13ccba2d5f699bb5d4b8cd7fd314dd"
+    "sha256": "7ce5a1162d28cec527f86ce8239b510aff12ef84aa4ec0eaf5f7ed77a01fd804"
    },
    {
     "file": "builds/9.7.1b-android-offline/MinionRushRevived-9.7.1b-offline.apk.017",
-    "size": 9255793,
-    "sha256": "0bf3bac3ee1662a8b7004b25efb113b5e4b557ecd362a2d718b743345bd7b1ca"
+    "size": 10796191,
+    "sha256": "be1db419371966647bc1892b20c8c678ae873edfd57828ef8ccb61bc45ea1859"
    }
   ]
  }
