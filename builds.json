@@ -10,9 +10,10 @@
    "arm64-v8a",
    "armeabi-v7a"
   ],
+  "status": "stable",
   "name": "MinionRushRevived-13.3.0.apk",
-  "size": 620064296,
-  "sha256": "c578754c249c8ca485e8be1e64e0efb4575ce12aafc94bc146c609138a14cd16",
+  "size": 620120990,
+  "sha256": "c2a4818d210790d90b250fa3197b8b76974a541fb28f2f9c2a391dcff2e0c877",
   "parts": [
    {
     "file": "builds/13.3.0-android/MinionRushRevived-13.3.0.apk.000",
@@ -81,11 +82,10 @@
    },
    {
     "file": "builds/13.3.0-android/MinionRushRevived-13.3.0.apk.013",
-    "size": 6647336,
-    "sha256": "a1e319633476d9ab3d09cdd2a0dfa948cfaee19c81b00098f59fa0446d10a740"
+    "size": 6704030,
+    "sha256": "389c3521a4e66a292780b7d154dbbe2ead6b3cfe43f04c5b6b01f37bbb10f65c"
    }
-  ],
-  "status": "stable"
+  ]
  },
  "13.3.0-ios": {
   "version": "13.3.0",
