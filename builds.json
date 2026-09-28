@@ -450,8 +450,8 @@
   "status": "experimental",
   "offline": true,
   "name": "MinionRushRevived-9.6.1b-offline.ipa",
-  "size": 729542025,
-  "sha256": "6f004e1fdffab489e2a80556a5c0d7225a7604cb193fe7359aa15e15c9304693",
+  "size": 729523043,
+  "sha256": "8acbafbab168bea9e60e103f2ec443bfebdadb1e72796b27c5ef5894e1bb30b6",
   "parts": [
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.000",
@@ -481,57 +481,57 @@
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.005",
     "size": 47185920,
-    "sha256": "649c8938551dcbaee8ddf30f7cfa7ffde1a5b91e9577b10e75c9c77c103984f9"
+    "sha256": "5073ab286d723e406efaba610fc637ebaf78d69e05825146bbcb04c2b791468a"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.006",
     "size": 47185920,
-    "sha256": "c5c920745560f7d34036f9b9bc5bd599719b09e8d5ae219ddf5e29b7d5c5c25b"
+    "sha256": "51844d4704279ab587c87e0a30d0f3a3fc15d821351404d3b38c891e0c8f2254"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.007",
     "size": 47185920,
-    "sha256": "5ce55aeb5dee9dc5ba8fd7b66780fb00c9c2b0a6f633b48d5445bde5b01f389a"
+    "sha256": "9c05fae91e438751864c62e8cb619eee02efb2a244305468c895fa2dd6931b4e"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.008",
     "size": 47185920,
-    "sha256": "20ad700dc7fd60440d1f9ea4551eb9a2d358e0ef75dae9c66345d6711e185e86"
+    "sha256": "33b62bb5c1351b4ad1bcf4c98b2fbe4450a99a2d161b8a17ed799fcf13dbe437"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.009",
     "size": 47185920,
-    "sha256": "1ade596586a941261874a335cb8536c75470cdc1792bbc647e028695eb4764a1"
+    "sha256": "4ef9f24b61ecf9bd3526873d860d3715a1f89a5767048497dffbdfc632be1ab9"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.010",
     "size": 47185920,
-    "sha256": "344bea1e656cb634433f420f33697d3cf3ce3175a5b7db669c0fa6944486504a"
+    "sha256": "46677482a1611b5beae7152cb1ae179b2ee438f68863f2cb88dbc82441230ae2"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.011",
     "size": 47185920,
-    "sha256": "1de7ca871121f9b3a53a6f33530684fe8415888fde10bbf9b0e4e63d1ad06d23"
+    "sha256": "144d89f3fe14cb71d3dd24a35c7f1f7504f1f2331a416a36d3a89cf7fe476a88"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.012",
     "size": 47185920,
-    "sha256": "a7c4b5c9af090d76c51353e7c52dd177826a78c637c5e93c5e8fd760201773de"
+    "sha256": "0d83a237f41ea18d30ea3009edb19e23b63b54b6e013d9c3d591a1c14de064a6"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.013",
     "size": 47185920,
-    "sha256": "80e64b6a7108297305effe13b3449237c45284526a7a5d9f92294638d0f5b5f3"
+    "sha256": "0f4ddd532151722fe9cecd51e7d2f12584ad1e46f7c8636bcc72f3bd85ff54b0"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.014",
     "size": 47185920,
-    "sha256": "39934a9c01fe048c9c2a755044df4d083841ac81df7bf19f6d0d2225d6878558"
+    "sha256": "9f865be0ab7bdc2790c75f00abec7a6c720737aa971fa0c6370570dc7524da70"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.015",
-    "size": 21753225,
-    "sha256": "c83ba2f742932e1b302d7abbcbb329a5c110b9503e160e9945faf05e6e02ba71"
+    "size": 21734243,
+    "sha256": "2b99587dcbf090807c456ae9bfe20454708017e7f438d6f263fd565f0328a269"
    }
   ]
  },
