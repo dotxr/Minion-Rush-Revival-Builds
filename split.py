@@ -3,7 +3,7 @@
     python3 split.py <id> <file> [label]
 e.g. python3 split.py 13.3.0-android MinionRushRevived-13.3.0.apk
 """
-import hashlib, json, os, sys
+import datetime, hashlib, json, os, sys
 
 PART = 45 * 1024 * 1024
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -25,6 +25,7 @@ with open(src, "rb") as f:
         parts.append({"file": f"builds/{bid}/{p}", "size": len(chunk), "sha256": hashlib.sha256(chunk).hexdigest()})
 
 builds = json.load(open(MANIFEST)) if os.path.exists(MANIFEST) else {}
-builds[bid] = {**{k: v for k, v in builds.get(bid, {}).items() if k not in ("name", "size", "sha256", "parts")}, "name": name, "size": os.path.getsize(src), "sha256": whole.hexdigest(), "parts": parts}
+builds[bid] = {**{k: v for k, v in builds.get(bid, {}).items() if k not in ("name", "size", "sha256", "parts")}, "name": name, "build": builds.get(bid, {}).get("build", 0) + 1,
+               "released": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), "size": os.path.getsize(src), "sha256": whole.hexdigest(), "parts": parts}
 json.dump(dict(sorted(builds.items())), open(MANIFEST, "w"), indent=1)
 print(bid, name, len(parts), "parts")
