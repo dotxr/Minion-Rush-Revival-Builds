@@ -347,6 +347,82 @@
    }
   ]
  },
+ "7.6.0e-ios": {
+  "name": "MinionRushRevived-7.6.0e-online.ipa",
+  "build": 1,
+  "released": "2026-09-29T05:40:52+00:00",
+  "size": 156936115,
+  "sha256": "782c386d44c412ebd56fdec3e924db214d5070a80123e5d057d48581e3e19a2c",
+  "parts": [
+   {
+    "file": "builds/7.6.0e-ios/MinionRushRevived-7.6.0e-online.ipa.000",
+    "size": 47185920,
+    "sha256": "3eaa037354f8c24693b81d1b90d304e553ada1099b0ef78728bace27a7e8b959"
+   },
+   {
+    "file": "builds/7.6.0e-ios/MinionRushRevived-7.6.0e-online.ipa.001",
+    "size": 47185920,
+    "sha256": "4306678a72605ade198f497c0882566df9caf5f7ec69a6e70e6849629a548044"
+   },
+   {
+    "file": "builds/7.6.0e-ios/MinionRushRevived-7.6.0e-online.ipa.002",
+    "size": 47185920,
+    "sha256": "40d5ba7efacb77756394e3579eea97f494559814c767188e8cb85322bc303bf8"
+   },
+   {
+    "file": "builds/7.6.0e-ios/MinionRushRevived-7.6.0e-online.ipa.003",
+    "size": 15378355,
+    "sha256": "c0fb19533056aa13ed532111a4277f60d28f0d546b7ac0f95cc966f4b8767433"
+   }
+  ],
+  "version": "7.6.0",
+  "platform": "ios",
+  "date": "2020-12-17",
+  "app": "Minion Rush",
+  "id": "com.gameloft.despicableme2",
+  "min_os": "iOS 11",
+  "archs": [
+   "arm64"
+  ],
+  "status": "experimental",
+  "offline": false
+ },
+ "7.6.0g-android": {
+  "name": "MinionRushRevived-7.6.0g-online.apk",
+  "build": 1,
+  "released": "2026-09-29T05:40:52+00:00",
+  "size": 137774837,
+  "sha256": "daea31278a7917b6b7f436650d5345f82953e930f20f8671badba222ce5b68ed",
+  "parts": [
+   {
+    "file": "builds/7.6.0g-android/MinionRushRevived-7.6.0g-online.apk.000",
+    "size": 47185920,
+    "sha256": "1d69edb3bf0096a2a531401ce43a305d10ef3a838f4c140ee19a271f3a6d8114"
+   },
+   {
+    "file": "builds/7.6.0g-android/MinionRushRevived-7.6.0g-online.apk.001",
+    "size": 47185920,
+    "sha256": "8b53805cdc4094bf780769d990b89636031398f39d16e356b3abc0fe709c23ec"
+   },
+   {
+    "file": "builds/7.6.0g-android/MinionRushRevived-7.6.0g-online.apk.002",
+    "size": 43402997,
+    "sha256": "62f6ce92b5a49c796e0336a883b92a3c33f1ded2fa1b4c453392bcefcb069049"
+   }
+  ],
+  "version": "7.6.0",
+  "platform": "android",
+  "date": "2020-12-23",
+  "app": "Minion Rush",
+  "id": "com.dotxr.MinionRush760",
+  "min_os": "Android 4.1",
+  "archs": [
+   "arm64-v8a",
+   "armeabi-v7a"
+  ],
+  "status": "experimental",
+  "offline": false
+ },
  "9.6.1b-android-offline": {
   "version": "9.6.1b",
   "platform": "android",
