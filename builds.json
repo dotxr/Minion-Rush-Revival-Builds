@@ -924,18 +924,8 @@
   ]
  },
  "save-editor-android": {
-  "name": "MinionRushSaveEditor.apk",
-  "build": 1,
-  "released": "2026-09-28T22:54:35+00:00",
-  "size": 336342,
-  "sha256": "82b0a474beaf884092024b665ab7303d48a0fc9e362668b11d5016a495c2e5e7",
-  "parts": [
-   {
-    "file": "builds/save-editor-android/MinionRushSaveEditor.apk.000",
-    "size": 336342,
-    "sha256": "82b0a474beaf884092024b665ab7303d48a0fc9e362668b11d5016a495c2e5e7"
-   }
-  ],
+  "build": 3,
+  "released": "2026-09-30T22:21:07+00:00",
   "version": "editor",
   "platform": "android",
   "app": "Minion Rush Save Editor",
@@ -945,8 +935,20 @@
   "supports": [
    "9.7.1b",
    "9.6.1b",
+   "7.6.0g",
    "7.3.0i",
    "5.7.0h"
+  ],
+  "changelog": "New editor page: Get all minions (9999 of every costume card), search, changed-only saves, faster build scan, 7.6.0 support.",
+  "name": "MinionRushSaveEditor.apk",
+  "size": 336342,
+  "sha256": "208e640d2467e69b243e1904e4286821e87651e8c89491c6e1ed3d55f2619037",
+  "parts": [
+   {
+    "file": "builds/save-editor-android/MinionRushSaveEditor.apk.000",
+    "size": 336342,
+    "sha256": "208e640d2467e69b243e1904e4286821e87651e8c89491c6e1ed3d55f2619037"
+   }
   ]
  }
 }
