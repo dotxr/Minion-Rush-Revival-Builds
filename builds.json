@@ -393,10 +393,10 @@
   ]
  },
  "7.6.0e-ios-offline": {
-  "build": 2,
-  "released": "2026-09-29T17:37:20+00:00",
+  "build": 3,
+  "released": "2026-10-01T01:16:49+00:00",
   "id": "com.dotxr.MinionRushRevived.offline.v760e",
-  "changelog": "Initial release.",
+  "changelog": "Negative currency reset, FPS unlocked, China real-info page removed, new save editor page.",
   "version": "7.6.0",
   "platform": "ios",
   "date": "2020-12-17",
@@ -408,8 +408,8 @@
   "status": "experimental",
   "offline": true,
   "name": "MinionRushRevived-7.6.0e-offline.ipa",
-  "size": 603725183,
-  "sha256": "2ea102165bd86e4c10f9e2f7ac406966ae2e382123f40af07ca604233e89cdc9",
+  "size": 603730435,
+  "sha256": "c7cbf252472b09df59af8cacc86dbaf8c6512278996977387c71e1be7ea4abc2",
   "parts": [
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.000",
@@ -419,62 +419,62 @@
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.001",
     "size": 47185920,
-    "sha256": "4306678a72605ade198f497c0882566df9caf5f7ec69a6e70e6849629a548044"
+    "sha256": "c6896bf14ec4dd124858604ff6a97cbb506663b37577282dfc953d8d9db7179d"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.002",
     "size": 47185920,
-    "sha256": "17e18abc46f25d0ae4d1f68d3775291417dacc4e60a52970cb7fb9a2e00203af"
+    "sha256": "e27f5ed7b0a9831f888e4056de19401b5347e176a38928cbb6c16fecd9d8ae4e"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.003",
     "size": 47185920,
-    "sha256": "5731d320516e2b2db7a7fd4fe8465d6f2516bf31e21890f4fc67ef284666eab1"
+    "sha256": "652b339353160de27d8acdc10c59896c5f0181298a12a80504708377009dd3b6"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.004",
     "size": 47185920,
-    "sha256": "2c0352b7dfa48b06981aa0f9aca7f978b3e6d7e5d3a31fd99a75e4eb90fa17e2"
+    "sha256": "18254e574ded4e0111ce592fbbe8693440e7720ffb482c54375784accd06d03e"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.005",
     "size": 47185920,
-    "sha256": "d41b0dd69184e256202cc6daef982cff1d76845c2c1a05a30549534d5699f168"
+    "sha256": "0abda5647c2c7653c6f17a370d002940d7a4989f47c5e88cfc0cbec9f50e68c2"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.006",
     "size": 47185920,
-    "sha256": "d2956004174c50b6f8ca16f349207bfc0d34c1de05953e4692e919b25fc04d06"
+    "sha256": "8eb68bb9a120b640893469674afb481c4b9615d737253ac480128845fb69c09a"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.007",
     "size": 47185920,
-    "sha256": "423a04271f0ee94d60ba073e2d05fd49a4f41e0c28e94e3ac89d87850faa6f29"
+    "sha256": "b233524d8b38d478a70681e609654862ba2f5d59d9be3bce9d34af1dae63e6d2"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.008",
     "size": 47185920,
-    "sha256": "fd116fd6a6acf33716ac94c4f80e2806f39aeaff7e54c635e9ff2b8d6ddfb1ed"
+    "sha256": "4e8ed3dd8573fe05d427832554d8deb61ab76d2a58e69fb9c0de483c4c836464"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.009",
     "size": 47185920,
-    "sha256": "ed16544b7e00780c16e8486990ea1b7722b64b39239430f1d9e7dab53ff8ea7c"
+    "sha256": "7a9d0a609b40f98037f622570548ca7cb3963f2cba666846da49b93686312762"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.010",
     "size": 47185920,
-    "sha256": "ef5500d7c54c31fd49ca7549a10138a0dcd9e5b5b3c75b30ccf8f71fcf4641d0"
+    "sha256": "16e195aa2999b067dcc06a360069faf6e9b5a9c0df2be04093823e0c7f359d87"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.011",
     "size": 47185920,
-    "sha256": "924ab8e8fd0d40a4643e2b7e7baf296cd7d8e87977c2883e71b143b06eeb45da"
+    "sha256": "556d7a1882f815a4ae5f34ac05e1bd5d490177da3ef182d62692f1bb11a32710"
    },
    {
     "file": "builds/7.6.0e-ios-offline/MinionRushRevived-7.6.0e-offline.ipa.012",
-    "size": 37494143,
-    "sha256": "df9faa45b93ad2e8ca0748469ec6c6f73abc84a42f6cd11733e91ffda4741492"
+    "size": 37499395,
+    "sha256": "e875705cebdd22672493aa42e98eb679fc86935e3b4afe8dd79a875f98836d25"
    }
   ]
  },
