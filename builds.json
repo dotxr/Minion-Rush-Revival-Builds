@@ -352,8 +352,8 @@
   ]
  },
  "7.6.0e-ios": {
-  "build": 3,
-  "released": "2026-09-29T17:37:19+00:00",
+  "build": 4,
+  "released": "2026-10-01T01:17:52+00:00",
   "version": "7.6.0",
   "platform": "ios",
   "date": "2020-12-17",
@@ -365,10 +365,10 @@
   ],
   "status": "experimental",
   "offline": false,
-  "changelog": "Changed bundle id, all content downloads at start.",
+  "changelog": "Negative currency reset, FPS unlocked, China real-info page removed.",
   "name": "MinionRushRevived-7.6.0e-online.ipa",
-  "size": 156936682,
-  "sha256": "b5672b3f4423e8605dfeebafb6c91a9b6069714e6a65fbfde9340d115df9619f",
+  "size": 156941931,
+  "sha256": "6ab161daf8ff6dfa100b049a6a8c1314c8d173fc26cc77cf1055065f55350023",
   "parts": [
    {
     "file": "builds/7.6.0e-ios/MinionRushRevived-7.6.0e-online.ipa.000",
@@ -378,17 +378,17 @@
    {
     "file": "builds/7.6.0e-ios/MinionRushRevived-7.6.0e-online.ipa.001",
     "size": 47185920,
-    "sha256": "4306678a72605ade198f497c0882566df9caf5f7ec69a6e70e6849629a548044"
+    "sha256": "c6896bf14ec4dd124858604ff6a97cbb506663b37577282dfc953d8d9db7179d"
    },
    {
     "file": "builds/7.6.0e-ios/MinionRushRevived-7.6.0e-online.ipa.002",
     "size": 47185920,
-    "sha256": "17e18abc46f25d0ae4d1f68d3775291417dacc4e60a52970cb7fb9a2e00203af"
+    "sha256": "e27f5ed7b0a9831f888e4056de19401b5347e176a38928cbb6c16fecd9d8ae4e"
    },
    {
     "file": "builds/7.6.0e-ios/MinionRushRevived-7.6.0e-online.ipa.003",
-    "size": 15378922,
-    "sha256": "de438b956b792da5e52cb02d7013b1fde3e60953813d8e464d420faef31fd918"
+    "size": 15384171,
+    "sha256": "aaf6eb5a27c01c316ab91a6ce4a174a3b9c1ba9fd1e17d0ea22e50294f683acb"
    }
   ]
  },
