@@ -479,8 +479,8 @@
   ]
  },
  "7.6.0g-android": {
-  "build": 5,
-  "released": "2026-10-01T01:12:22+00:00",
+  "build": 6,
+  "released": "2026-10-01T02:40:00+00:00",
   "version": "7.6.0",
   "platform": "android",
   "date": "2020-12-23",
@@ -493,10 +493,10 @@
   ],
   "status": "experimental",
   "offline": false,
-  "changelog": "Fixes 30+ second launch stall, negative currency reset, FPS unlocked, China real-info page removed.",
+  "changelog": "Fixes the hang on the Gameloft logo: packs no longer block the launch screen.",
   "name": "MinionRushRevived-7.6.0g-online.apk",
-  "size": 137799413,
-  "sha256": "d2cf57b2b71b659cdcf01e079713ce4f71e6112c8bd856416d3e0ad900a6f3f6",
+  "size": 137803509,
+  "sha256": "7947ccbdc828d7401dfada9f8dde1b3e991860261fd37fcff1660e03274f0a72",
   "parts": [
    {
     "file": "builds/7.6.0g-android/MinionRushRevived-7.6.0g-online.apk.000",
@@ -510,8 +510,8 @@
    },
    {
     "file": "builds/7.6.0g-android/MinionRushRevived-7.6.0g-online.apk.002",
-    "size": 43427573,
-    "sha256": "96196a9cd0811729f384be684d282a5dc5da8b94c121616e4a65e5d0775ea499"
+    "size": 43431669,
+    "sha256": "aea480c1f29315fd8c385f26a248059c7dc37ab5b9db5ac7dc653e6366249cc0"
    }
   ]
  },
