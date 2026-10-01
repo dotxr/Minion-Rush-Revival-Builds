@@ -516,10 +516,10 @@
   ]
  },
  "7.6.0g-android-offline": {
-  "build": 4,
-  "released": "2026-10-01T02:40:11+00:00",
+  "build": 5,
+  "released": "2026-10-01T03:27:18+00:00",
   "id": "com.dotxr.MinionRushRevived.offline.v760g",
-  "changelog": "Fixes the hang on the Gameloft logo: packs no longer block the launch screen.",
+  "changelog": "Fixes FPS dropping back to default on the second launch. Packs no longer block the launch screen.",
   "version": "7.6.0",
   "platform": "android",
   "date": "2020-12-23",
@@ -532,8 +532,8 @@
   "status": "experimental",
   "offline": true,
   "name": "MinionRushRevived-7.6.0g-offline.apk",
-  "size": 608657817,
-  "sha256": "d18ff935367ed0ddb0a593790daa120514f9796541d2802ee53323b0565e127c",
+  "size": 608666009,
+  "sha256": "8824488ffab0f8b1689bb794a2f244e89555bac17865d5b62a76f5a4f5ffa8ad",
   "parts": [
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.000",
@@ -548,57 +548,57 @@
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.002",
     "size": 47185920,
-    "sha256": "63afc550d1db99d248bd7f48f708a32aa2d7e1dd7d7884e388cbee11f50cc65b"
+    "sha256": "6a67c8a15b13926aa6e1e448eb2cd06b41ab4efaadfbfe01ae71144324031fdb"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.003",
     "size": 47185920,
-    "sha256": "781ea09efecfeb5f78f1cb718e996ca339010b04811dacc62302b63278d740ff"
+    "sha256": "56987a69328107febde0b60218122fe06f69135b71e9860107cf999d4597430f"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.004",
     "size": 47185920,
-    "sha256": "45b6232c1a75847e1b0ce9b1f004704743f9a678d58326facd06301016f7944e"
+    "sha256": "1f97dec8c20c750abc37a328a8559a9a366431a6578027785b97327698fb0887"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.005",
     "size": 47185920,
-    "sha256": "3de750e598cd9af2bac5738a0bbcaf210c3b0e776df7fe70d2698b8896b6aa4b"
+    "sha256": "e4cbc0221b4d50d6893d4076f54823e3a9d293373e2a6ac48b75d7b8899339e7"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.006",
     "size": 47185920,
-    "sha256": "95253a5f0d2f8e69a44b7972403cfb919deacd6083ee0cb89703d13bc4470976"
+    "sha256": "39702c1d89909a03d06c8ec648246e6c679388278b1993cbda7f4148e3334724"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.007",
     "size": 47185920,
-    "sha256": "69b44780459f2ea4b96aaf974bb81b09819903d146df27edd675d8f4d65b1034"
+    "sha256": "38af42ec21326385dee755e0771758fb5c0efd9cce692c6299bf648a8876afe6"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.008",
     "size": 47185920,
-    "sha256": "c2f0e02b096b58907c63a89f5288969ffc719c231740813953dba3b8140a9ba7"
+    "sha256": "e7e5affa1faf2b763b58079e5af81c17cab2464ad9014ae4c5f749c410aeeae8"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.009",
     "size": 47185920,
-    "sha256": "f054286758002bfc24d148cdfe51f3b059e5b5ed0faf8990677cde3f7361005d"
+    "sha256": "e3aa484cd248af895451530052a40313661d6763fcfccfb5e943b0dfc856f0f0"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.010",
     "size": 47185920,
-    "sha256": "a66d6d46b0d3b1b521d9f30e7ccaecc035e21af97b2ecfdbce4b0fbdb6857e8a"
+    "sha256": "9b4e4c5ccfaf9c2b358d2ed114ac369ce549081afe928cad7dfe58aa69bed589"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.011",
     "size": 47185920,
-    "sha256": "ffba434f9ecca1028c3bcc4252a91d41c6b936b4915198ab6641131ce64d6df1"
+    "sha256": "9b2e15b64a3297fe05f9c52cb24b6fe711f19f114d6016865358e4b10829cf67"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.012",
-    "size": 42426777,
-    "sha256": "ee914b302b7e6a6267f7f66bc3b738efa205de2e2b5b49687d44890af18d0684"
+    "size": 42434969,
+    "sha256": "f64a6853d31b19ca6f84e9c3e49bbde0d3bf307ade385849edb0606adc4d8838"
    }
   ]
  },
