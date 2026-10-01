@@ -277,12 +277,12 @@
   ],
   "status": "experimental",
   "offline": true,
-  "build": 11,
-  "released": "2026-10-01T02:40:37+00:00",
-  "changelog": "Fixes the hang on the Gameloft logo: packs no longer block the launch screen.",
+  "build": 12,
+  "released": "2026-10-01T03:29:30+00:00",
+  "changelog": "Fixes FPS dropping back to default on the second launch. Packs no longer block the launch screen.",
   "name": "MinionRushRevived-7.3.0i-offline.apk",
-  "size": 591277992,
-  "sha256": "fe73341d643fc612138c3f48f9e663d287e9c201ed2dc2a91bec1bdf63fe3cfa",
+  "size": 591310760,
+  "sha256": "e7e9c0b951995d896ac9b0dfeb3c64098aa7a285518dce75d3c51adc1f9920f1",
   "parts": [
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.000",
@@ -297,57 +297,57 @@
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.002",
     "size": 47185920,
-    "sha256": "a895ba0e00555ce1867bb98d70db84ddd71067a5be98375061bbadddac32f257"
+    "sha256": "91031590b63e62eb9f53127fe3ee4d3b4b5818ba768a38fe1170d401cca1b6e9"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.003",
     "size": 47185920,
-    "sha256": "8b93053d36c343422f3cfff79f200a7d325be286ea9bc17aca85030b875ea58b"
+    "sha256": "c4f982315272145b86e3dda60406b0ada1d4424a0be09f063a74aefab7fc593e"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.004",
     "size": 47185920,
-    "sha256": "f2e61b164a85308c09c879a2c7348c918046d49c9b9ddc22591f52c6c4deaeab"
+    "sha256": "0599db2afbc8032f7250a14c4421700b57239501d331c6f7c4743a4f88211c79"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.005",
     "size": 47185920,
-    "sha256": "cf8c9f62797c69560cbf9d7c2f59bf967f6233f6352995ea68f213dd1b88c18e"
+    "sha256": "da14aae4148e0813be4a653e2d929cdee672eadb733dfda6364c9f95251c8f7d"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.006",
     "size": 47185920,
-    "sha256": "21e4f2e1a0a42bc4375f04ce3ce29c4e18ccec6c94924265e8ae5453f87892fb"
+    "sha256": "bca61eea51b76879a3ead36d59e0461d34e40b843d9599a23fbad2fc8c9a44ef"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.007",
     "size": 47185920,
-    "sha256": "ec8be4bcd1493bf9fda907d32673d6f6f32f48956edc9cafc56448893d66bb5a"
+    "sha256": "ae9736c524d6bbeb92a0525d434170d080b28d8009752e11cda9f7315531d655"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.008",
     "size": 47185920,
-    "sha256": "dd4ab28bce11426eb550d0f6c0f9bc877d2f19f140160ddc7f589324dfb5d041"
+    "sha256": "b884b126d9ccc1b9d86260e11749c2084e382c89fa9404001e0af6fb01713520"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.009",
     "size": 47185920,
-    "sha256": "fb928e644326525db15e703b4db2fd11114e0236c2d72a4205d30e95956ccc59"
+    "sha256": "efb13e885bfab7d88d7bf46559e21532f6ef1f3f494532e9793d704497c5bf96"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.010",
     "size": 47185920,
-    "sha256": "4e94819f28f96d9a70507c724b558256f674fd05d29fd32b91d17661f73fe62a"
+    "sha256": "f97c97e23fe5ac0ddc249f0f5e4ece0306210a0b0d93e18e7671da4d3af52ba1"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.011",
     "size": 47185920,
-    "sha256": "2342dc2742d6978ee9887da32f4a0774c8addd352027619d973db1cb97855986"
+    "sha256": "691badb112b38737c7e75bf8d3647d7d919d3124476effe13270b78ccb7398af"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.012",
-    "size": 25046952,
-    "sha256": "79149fedc9f2b384bb8bca0432301aa696324409188aadb965a0552ba2c7f68f"
+    "size": 25079720,
+    "sha256": "6a669f30b78b431b664a50815f14434a15a39133e22722e795765c381c49dac6"
    }
   ]
  },
