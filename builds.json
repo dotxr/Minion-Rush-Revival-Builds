@@ -516,10 +516,10 @@
   ]
  },
  "7.6.0g-android-offline": {
-  "build": 3,
-  "released": "2026-10-01T01:11:19+00:00",
+  "build": 4,
+  "released": "2026-10-01T02:40:11+00:00",
   "id": "com.dotxr.MinionRushRevived.offline.v760g",
-  "changelog": "Fixes 30+ second launch stall, negative currency reset, FPS unlocked, China real-info page removed, new save editor page.",
+  "changelog": "Fixes the hang on the Gameloft logo: packs no longer block the launch screen.",
   "version": "7.6.0",
   "platform": "android",
   "date": "2020-12-23",
@@ -533,7 +533,7 @@
   "offline": true,
   "name": "MinionRushRevived-7.6.0g-offline.apk",
   "size": 608657817,
-  "sha256": "49f216e96fcb68fce2c330a32d027caf6d344842200e37bd8093b72e6a03b7c3",
+  "sha256": "d18ff935367ed0ddb0a593790daa120514f9796541d2802ee53323b0565e127c",
   "parts": [
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.000",
@@ -548,7 +548,7 @@
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.002",
     "size": 47185920,
-    "sha256": "d5a0df9b5464cad00cc7f3f292c761f88e7e3f6dc25cb5e0200a88af6b44e644"
+    "sha256": "63afc550d1db99d248bd7f48f708a32aa2d7e1dd7d7884e388cbee11f50cc65b"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.003",
@@ -598,7 +598,7 @@
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.012",
     "size": 42426777,
-    "sha256": "69e029c12a0e1bc4120abbf84af0a31fca982eb99ca6a5404152ace512871500"
+    "sha256": "ee914b302b7e6a6267f7f66bc3b738efa205de2e2b5b49687d44890af18d0684"
    }
   ]
  },
