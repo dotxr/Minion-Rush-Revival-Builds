@@ -723,12 +723,12 @@
   ],
   "status": "experimental",
   "offline": true,
-  "build": 11,
-  "released": "2026-10-01T01:53:45+00:00",
-  "changelog": "Fixes negative currency, FPS unlocked, China real-info page removed, new save editor page. Fixes the StoreKit load crash on iPhone.",
+  "build": 12,
+  "released": "2026-10-01T03:32:20+00:00",
+  "changelog": "Fixes FPS dropping back to default on the second launch.",
   "name": "MinionRushRevived-9.6.1b-offline.ipa",
-  "size": 723529175,
-  "sha256": "1b0c529769579f95f63c1e7fb760f18629f0702e881d9fd9447a1a6b558b0831",
+  "size": 723529381,
+  "sha256": "e5dfc227a5ef99c58e7522c3748bfbfb0051e4df62b343b5e65cee5bcdf223b6",
   "parts": [
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.000",
@@ -758,57 +758,57 @@
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.005",
     "size": 47185920,
-    "sha256": "55b581cd9e7fe83fe0fb749bb0dc7d30c6bd5da9ee1dc379fce0cf0ce95b9896"
+    "sha256": "1cab0d87ad251789a77d23e07ffd9c354d5472486c4fef42a2037c15c10f0bbe"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.006",
     "size": 47185920,
-    "sha256": "63b8fcb704d49c2e7f4064d7c9e5fd27e18c5bb153101a2d1eb0edebae4e9ae8"
+    "sha256": "12c623339a10a77d88b8086593494dbcac58a7258d5a391f41f5b8506e270b01"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.007",
     "size": 47185920,
-    "sha256": "330bc646f16ca20b9eba867ad20cf262d3f968642b00351396f7ed54b87082a5"
+    "sha256": "b8289ec942854e315f5671338f4b69e4fbeec36513adb67cdf59e88a55b70d51"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.008",
     "size": 47185920,
-    "sha256": "2915ee0b05fac702910eb0c385f62168f06cbb9ce9fa9d00510aab948ca75238"
+    "sha256": "98454282e447c6a6be1a04103bd6341250daef4a8e91110eca485f1e16317a0d"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.009",
     "size": 47185920,
-    "sha256": "1bca3828e65ec1a8890f446303c6642ca7c617494e00616ba1812aa31f428495"
+    "sha256": "20ef099477734c27250412951ea61c836c27d7cfb5b24406f2647d1b9d4a861a"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.010",
     "size": 47185920,
-    "sha256": "a9ef08d751b5b28a59b7a586eda072f9485a4c37a4296b972b68ba91130fcdb3"
+    "sha256": "d097db71453dbe1c0c97d07b7f0349258472bfae6c609d09c1425a573124f6f7"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.011",
     "size": 47185920,
-    "sha256": "06219ddfe15193788f4687feb7115b9f3044d7619f45923a26607f2467bd917d"
+    "sha256": "6d33efc81144a2899d70a8ef27636b773109c5667126d385cc4502a47fc1c2d0"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.012",
     "size": 47185920,
-    "sha256": "00554dcacb3b8b1e83f5d96bf8ea3ee7c3b61c6ac7825ec8ea14a2b308d328ef"
+    "sha256": "b43ab597f69f3b3a5b60096efe019c7aa621b6245b4602cb0eaa841187aa6293"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.013",
     "size": 47185920,
-    "sha256": "95159b778984cf33e74c1b1bcff7ee7edcd6eb63418a36b0a2ff726605aeed31"
+    "sha256": "776eaac728084dcf64c7d0c14fb78bc449fd8bbe07005e8baace067d24b03e77"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.014",
     "size": 47185920,
-    "sha256": "74a539875a78ad5bbf1b5a9b0e66a3f1528add5f969a1ddd41d18f1e76bb3e66"
+    "sha256": "b85d33f13a2170ac1396017ca16da5416322fb4161c6d96c8e3a64c8ade1c463"
    },
    {
     "file": "builds/9.6.1b-ios-offline/MinionRushRevived-9.6.1b-offline.ipa.015",
-    "size": 15740375,
-    "sha256": "1c92e7424e1de00bcff8b4ef46a0b5aecf5923b368214c4e7a71d3376afe63e6"
+    "size": 15740581,
+    "sha256": "3184f750f0e3bd00e63ec7e69919f977b7e3b52308f1c900a5ea04aff319944b"
    }
   ]
  },
