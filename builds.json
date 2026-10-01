@@ -277,12 +277,12 @@
   ],
   "status": "experimental",
   "offline": true,
-  "build": 9,
-  "released": "2026-09-29T17:37:21+00:00",
-  "changelog": "Changed package name, bug fix that fixes slow loading, all content downloads at start.",
+  "build": 10,
+  "released": "2026-10-01T01:12:37+00:00",
+  "changelog": "Fixes 30+ second launch stall, negative currency reset, FPS unlocked, China real-info page removed, new save editor page.",
   "name": "MinionRushRevived-7.3.0i-offline.apk",
-  "size": 591253416,
-  "sha256": "ec5720425a14d4188e6d18a45c0d9ae2d3dc65a49ce2581214b3e903b5b88564",
+  "size": 591277992,
+  "sha256": "aa9bc834ef436e48616393583f4565242a8092dc5b2172d67e2722f13e165c33",
   "parts": [
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.000",
@@ -292,62 +292,62 @@
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.001",
     "size": 47185920,
-    "sha256": "d44ac546663198f749affd453839f33e27bb174e2187950048460a4e1557d440"
+    "sha256": "b897a7727c8c3cfa93fa680dd1effa95bbbd434477953b240479203c8d788645"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.002",
     "size": 47185920,
-    "sha256": "5664d69fce94ee5948c7c2a3c4df8e0f06f61cc5834b1ed0fb4b53cd3729d207"
+    "sha256": "240542e680126b13686478bf38101433c9f7ec8200e860a0e560fbd781cba629"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.003",
     "size": 47185920,
-    "sha256": "5724d9570e1070a398178fc14917ee8ff464885a852dcedac6a773d1a5400d01"
+    "sha256": "8b93053d36c343422f3cfff79f200a7d325be286ea9bc17aca85030b875ea58b"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.004",
     "size": 47185920,
-    "sha256": "b88fad7adcfa41325a9f2cdae1de6e130bab01926b898788a8336eafeb9815f8"
+    "sha256": "f2e61b164a85308c09c879a2c7348c918046d49c9b9ddc22591f52c6c4deaeab"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.005",
     "size": 47185920,
-    "sha256": "434408e9c701f412ec77bf83ab0fd1e347b267329ec18489429b6030e0c5f7a9"
+    "sha256": "cf8c9f62797c69560cbf9d7c2f59bf967f6233f6352995ea68f213dd1b88c18e"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.006",
     "size": 47185920,
-    "sha256": "00f340780f82546eef0406b694d49facff716fcee6283e745d5356c15f6940a3"
+    "sha256": "21e4f2e1a0a42bc4375f04ce3ce29c4e18ccec6c94924265e8ae5453f87892fb"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.007",
     "size": 47185920,
-    "sha256": "aa7740519ac12d3eb1a8dfddbbea220c2732751b1df2d0a872e5d8d4a0555b65"
+    "sha256": "ec8be4bcd1493bf9fda907d32673d6f6f32f48956edc9cafc56448893d66bb5a"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.008",
     "size": 47185920,
-    "sha256": "82cf301749b30d41247d92a0a9509f2ffdb252ba890fd2f2ddb5f1e30b001b8f"
+    "sha256": "dd4ab28bce11426eb550d0f6c0f9bc877d2f19f140160ddc7f589324dfb5d041"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.009",
     "size": 47185920,
-    "sha256": "5e85d7727f369010538bb8cbdafe5a65f7d13da6cd36ed6ed99c07956798359a"
+    "sha256": "fb928e644326525db15e703b4db2fd11114e0236c2d72a4205d30e95956ccc59"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.010",
     "size": 47185920,
-    "sha256": "5fbaf36230c08d4a554156325c8833502b51909c29e64d9b187b192fc4d8a7b7"
+    "sha256": "4e94819f28f96d9a70507c724b558256f674fd05d29fd32b91d17661f73fe62a"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.011",
     "size": 47185920,
-    "sha256": "a3a9a80b2861d43ece2dda2a41121f03fe7d56b03607030878d9983a441cbb22"
+    "sha256": "2342dc2742d6978ee9887da32f4a0774c8addd352027619d973db1cb97855986"
    },
    {
     "file": "builds/7.3.0i-android-offline/MinionRushRevived-7.3.0i-offline.apk.012",
-    "size": 25022376,
-    "sha256": "46b74d072d3f71ad69f5824af927d61bf4c127bf2c48678bfd5167c8c2608e23"
+    "size": 25046952,
+    "sha256": "5daa9b5171c4b116fd76c0a26f66c9de7e6929f74fa98c7e59394d88a498192c"
    }
   ]
  },
