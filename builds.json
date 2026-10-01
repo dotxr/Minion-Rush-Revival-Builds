@@ -516,10 +516,10 @@
   ]
  },
  "7.6.0g-android-offline": {
-  "build": 5,
-  "released": "2026-10-01T03:27:18+00:00",
+  "build": 6,
+  "released": "2026-10-01T18:07:33+00:00",
   "id": "com.dotxr.MinionRushRevived.offline.v760g",
-  "changelog": "Fixes FPS dropping back to default on the second launch. Packs no longer block the launch screen.",
+  "changelog": "Fixes the costume page loading forever: the pack loader now reports installed packs as complete.",
   "version": "7.6.0",
   "platform": "android",
   "date": "2020-12-23",
@@ -533,7 +533,7 @@
   "offline": true,
   "name": "MinionRushRevived-7.6.0g-offline.apk",
   "size": 608666009,
-  "sha256": "8824488ffab0f8b1689bb794a2f244e89555bac17865d5b62a76f5a4f5ffa8ad",
+  "sha256": "d55d31b44a722313a0c2a8a52683e601c9994b4b26bb7679b4f56f1b53da72f3",
   "parts": [
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.000",
@@ -548,7 +548,7 @@
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.002",
     "size": 47185920,
-    "sha256": "6a67c8a15b13926aa6e1e448eb2cd06b41ab4efaadfbfe01ae71144324031fdb"
+    "sha256": "0dd2249fb5cf780d0e2f7544823ce7c705781f178e0b530be87543f8ffc8785b"
    },
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.003",
@@ -598,7 +598,7 @@
    {
     "file": "builds/7.6.0g-android-offline/MinionRushRevived-7.6.0g-offline.apk.012",
     "size": 42434969,
-    "sha256": "f64a6853d31b19ca6f84e9c3e49bbde0d3bf307ade385849edb0606adc4d8838"
+    "sha256": "1ecf6ad85a1c2d1456db3c40339ba835dafeb6a4c7c5841fe4a8d1e124082ef5"
    }
   ]
  },
