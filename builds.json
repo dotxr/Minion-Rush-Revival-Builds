@@ -479,8 +479,8 @@
   ]
  },
  "7.6.0g-android": {
-  "build": 4,
-  "released": "2026-09-29T17:37:18+00:00",
+  "build": 5,
+  "released": "2026-10-01T01:12:22+00:00",
   "version": "7.6.0",
   "platform": "android",
   "date": "2020-12-23",
@@ -493,10 +493,10 @@
   ],
   "status": "experimental",
   "offline": false,
-  "changelog": "Changed package name, bug fix that fixes downloads stuck at 0 MB.",
+  "changelog": "Fixes 30+ second launch stall, negative currency reset, FPS unlocked, China real-info page removed.",
   "name": "MinionRushRevived-7.6.0g-online.apk",
-  "size": 137774837,
-  "sha256": "90d00a709a691982ddf78c5c047a429be07cb480b92da778100dbc18580318e5",
+  "size": 137799413,
+  "sha256": "d2cf57b2b71b659cdcf01e079713ce4f71e6112c8bd856416d3e0ad900a6f3f6",
   "parts": [
    {
     "file": "builds/7.6.0g-android/MinionRushRevived-7.6.0g-online.apk.000",
@@ -506,12 +506,12 @@
    {
     "file": "builds/7.6.0g-android/MinionRushRevived-7.6.0g-online.apk.001",
     "size": 47185920,
-    "sha256": "5d35a4d3852399f001bbc514c38b9c4670a42a1dbf463e5f89f0c6d5e34a2289"
+    "sha256": "c70817e24a23eda9d76697ecb11d73f12fc11b543891587851dd909e009b25e8"
    },
    {
     "file": "builds/7.6.0g-android/MinionRushRevived-7.6.0g-online.apk.002",
-    "size": 43402997,
-    "sha256": "e89a0502d404f053db6cb1d5a806476a25f0a7576ba061045c04a3ecc4313635"
+    "size": 43427573,
+    "sha256": "96196a9cd0811729f384be684d282a5dc5da8b94c121616e4a65e5d0775ea499"
    }
   ]
  },
